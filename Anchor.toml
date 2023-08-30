@@ -8,7 +8,7 @@ tic_tac_toe = "hF42rUUnXiwZHKPJg5v3fsAF2cybonVNen8VGsAetEg"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "testnet"
 wallet = "/Users/junkyung/.config/solana/id.json"
 
 [scripts]

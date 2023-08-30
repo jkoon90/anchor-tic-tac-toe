@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["programs/tic-tac-toe/Cargo.toml"]
+}
